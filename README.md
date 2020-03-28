@@ -1,29 +1,12 @@
-# vuecli3
+#京东商城（移动端）
+```此项目主要使用Vue Cli开发
+```下载项目后首先运行NPM INSTALL安装node_modules包保证项目能够正常启动
+```项目技术
+```利用Vue脚手架开发，主要实现的功能为：对一个商品实现增删查改，用户注册、登录，地址管理等功能
+```页面所有数据通过Vuex进行管理，全部存放在store包中
+```页面数据全部来源于后台接口，所有接口调用操作同一封装在API文件夹中
+```页面常用组件均封装在components中
+```对常用请求及加载插件统一进行封装在assets\js\目录下
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##欢迎您的访问，如果项目运行中出现疑惑问题欢迎与我交流
+##微信：k1581399769，添加请备注来意
